@@ -22,6 +22,6 @@ Based in London, U.K.
 
 Softwareentwickler bei <a href="https://marvelapp.com">marvelapp.com</a>
 
-aus London, U.K.
+Aus London, U.K.
 
 <a href="github.com/seanpreston">github</a>, <a href="twitter.com/seanpreston">twitter</a>, <a href="mailto:seanmpreston@gmail.com">email</a>
