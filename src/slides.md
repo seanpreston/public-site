@@ -20,8 +20,8 @@ Based in London, U.K.
 
 # SEAN PRESTON
 
-Software Engineer bei <a href="https://marvelapp.com">marvelapp.com</a>
+Softwareentwickler bei <a href="https://marvelapp.com">marvelapp.com</a>
 
-Leben in London, U.K.
+aus London, U.K.
 
 <a href="github.com/seanpreston">github</a>, <a href="twitter.com/seanpreston">twitter</a>, <a href="mailto:seanmpreston@gmail.com">email</a>
