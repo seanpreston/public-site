@@ -128,7 +128,7 @@ h1 {
   margin-bottom: 0.5rem;
 
   color: var(--white);
-  background-color: black;
+  background-color: var(--black);
 
   padding-left: 1rem;
   padding-right: 1rem;
@@ -150,7 +150,7 @@ p {
   padding-bottom: 0.2rem;
 
   color: var(--white);
-  background-color: black;
+  background-color: var(--black);
 }
 
 header {
