@@ -7,26 +7,9 @@ import Transition from '../components/transition';
 
 import './index.css';
 
-// const Header = ({ name, title, date }) => (
-//   <header>
-//     <Link to="/1">
-//       <span>{name}</span> — {title}
-//     </Link>
-//     <time>{date}</time>
-//   </header>
-// );
-
 const Header = ({ }) => (
   <header>
-    <Link to="/1">
-      en
-    </Link>
-    <Link to="/2">
-      jp
-    </Link>
-    <Link to="/3">
-      de
-    </Link>
+
   </header>
 );
 
