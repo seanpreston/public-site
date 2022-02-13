@@ -18,7 +18,7 @@ import './index.css';
 
 const Header = ({ }) => (
   <header>
-    <Link to="/1">
+    {/* <Link to="/1">
       en
     </Link>
     <Link to="/2">
@@ -26,7 +26,7 @@ const Header = ({ }) => (
     </Link>
     <Link to="/3">
       de
-    </Link>
+    </Link> */}
   </header>
 );
 
