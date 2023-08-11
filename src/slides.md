@@ -1,6 +1,6 @@
 # SEAN PRESTON
 
-Engineering Manager at <a href="https://ethyca.com">ethyca.com</a>
+Engineering Manager at <a href="https://turquoise.health">Turquoise Health</a>
 
 Based in NYC.
 
