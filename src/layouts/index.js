@@ -73,7 +73,7 @@ class TemplateWrapper extends Component {
     return (
       <div>
         <Helmet
-          title={`${site.siteMetadata.title} &#129046; ${site.siteMetadata.name}`}
+          title={`${site.siteMetadata.title} → ${site.siteMetadata.name}`}
         />
         <Header
           name={site.siteMetadata.name}
